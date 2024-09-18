@@ -6,7 +6,7 @@ This project focuses on performing in-depth analysis on a COVID-19 dataset using
 
 * Data Exploration: Initial exploration of the dataset to understand its structure, including examining columns, data types, and identifying key metrics.
 * Data Cleaning: Preprocessing steps to clean and prepare the data, handling missing values, duplicates, and ensuring data integrity for accurate analysis.
-* Querying and Analysis: Utilizing SQL queries to extract meaningful insights. This includes analyzing infection rates, recovery rates, and fatality ratios across different regions and time periods. We also looked into the demographic distribution of cases, such as age groups and gender differences.
+* Querying and Analysis: Utilizing SQL queries to extract meaningful insights. This includes analyzing infection rates, recovery rates, and fatality ratios across different regions and time periods. I also looked into the demographic distribution of cases, such as age groups and gender differences.
 * Visualizations: Creating visual representations of the data to highlight trends and patterns in the pandemic’s progression. These visualizations aid in better understanding the results of our analysis.
 * Reporting: Summarizing findings into a report format that highlights key insights and observations derived from the dataset.
 
